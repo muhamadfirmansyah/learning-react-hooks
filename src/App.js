@@ -1,6 +1,13 @@
 import React, { useState } from 'react'
 import './App.css';
 
+// Ada beberapa hooks lainnya: https://reactjs.org/docs/hooks-reference.html
+
+// useState
+// useEffect untuk life-cycle hooksnya
+// useContext untuk context api
+// dan beberapa tambahan lainnya
+
 // Fitur state Hooks
 // Import Hooksnya dengan useState
 
